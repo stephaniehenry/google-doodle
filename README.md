@@ -5,4 +5,4 @@ Which rodent it is depends on what SVGs I can find/make. The idea will be the sa
 [Link to Figma Collage](https://www.figma.com/file/qJCTsV87m9OoCnfV9xToBO/Google-Doodle?node-id=0%3A1)
 
 ## Resources
-* Hamster Vectors by Annalise Batista from Pixabay: https://pixabay.com/illustrations/hamster-pet-mouse-cage-3611868/ 
+* Hamster Vectors from [Frepik.com](https://www.flaticon.com/authors/freepik) Uploaded by [Flaticon](https://www.flaticon.com/)
